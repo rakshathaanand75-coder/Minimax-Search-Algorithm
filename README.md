@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: RAKSHATHA S A         </h3>
-<h3>Register Number/Staff Id:     212225220079  </h3>
+<h3>Name: RAKSHATHA S A          </h3>
+<h3>Register Number: 212225220079        </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -113,11 +113,8 @@ end
 
 <hr>
 
-
-<h2>Program : <h2>
-
+## PROGRAM:
 ```
-
 import math
 
 def print_board(board):
@@ -251,17 +248,12 @@ while True:
         print_board(board)
         print("Match Draw!")
         break
-
 ```
+## OUTPUT:
 
-<h2> Output : <h2>
+<img width="642" height="515" alt="image" src="https://github.com/user-attachments/assets/652141a1-076f-410f-8487-84db604ba1c2" />
 
-<img width="454" height="562" alt="image" src="https://github.com/user-attachments/assets/67dc3a7f-86ba-4042-bba9-a1e08bbb041b" />
-
-
-<img width="456" height="413" alt="image" src="https://github.com/user-attachments/assets/5d052fdc-8af6-4c0b-9b88-f0c4f200fe4c" />
-
-
+<img width="537" height="398" alt="image" src="https://github.com/user-attachments/assets/633ea7f9-aca1-40dc-abdb-f95b1c032650" />
 
 
 <h2>Result:</h2>
