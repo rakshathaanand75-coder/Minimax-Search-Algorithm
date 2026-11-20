@@ -256,7 +256,11 @@ while True:
 
 <h2> Output : <h2>
 
-<img width="188" height="656" alt="image" src="https://github.com/user-attachments/assets/13b71aa4-e77c-4d8e-bf20-ccdbd6e81c91" />
+<img width="454" height="562" alt="image" src="https://github.com/user-attachments/assets/67dc3a7f-86ba-4042-bba9-a1e08bbb041b" />
+
+
+<img width="456" height="413" alt="image" src="https://github.com/user-attachments/assets/5d052fdc-8af6-4c0b-9b88-f0c4f200fe4c" />
+
 
 
 
